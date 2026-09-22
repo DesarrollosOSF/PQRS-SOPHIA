@@ -1,0 +1,1 @@
+[02-Mar-2026 22:04:09 UTC] PHP Warning:  session_start(): Cannot find session save handler &quot;redis&quot; - session startup failed in /home/osfcomco/public_html/pqrs/includes/header.php on line 2
