@@ -441,7 +441,7 @@ function mostrarSeccion($seccion, $tipo_reporte) {
 </div>
 
 <!-- Tabla de Resumen Ejecutivo -->
-<div class="row">
+<!-- <div class="row">
     <div class="col-12">
         <div class="card">
             <div class="card-header">
@@ -503,7 +503,7 @@ function mostrarSeccion($seccion, $tipo_reporte) {
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 <!-- Modal de Detalle -->
 <div class="modal fade" id="detalleModal" tabindex="-1">
